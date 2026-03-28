@@ -15,7 +15,8 @@ The adoption of electric vehicles is growing rapidly. Understanding sales trends
 ## 📂 Project Files
 - `Dashboard Screenshot/` – Screenshots of the Tableau dashboard  
 - `Data/` – Excel file containing EV dataset  
-- `Problem_Statement.pptx` – Project problem statement and overview  
+- `Problem_Statement.pptx` – Project problem statement and overview
+- `Dashboard.twbx` – Tableau Dashboard file (interactive dashboard)  
 
 ---
 
